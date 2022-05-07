@@ -1,4 +1,4 @@
-#   Home:добавление комментария 5151351 56465465465fsdvasdfasdfsfsdafdsfsdfsdfsdf
+#                                              Home:добавление комментария
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
 driver = webdriver.Chrome()
