@@ -44,5 +44,3 @@
 # logout_get_text=logout.text
 # assert logout_get_text == "Logout"
 # driver.quit()
-
-
