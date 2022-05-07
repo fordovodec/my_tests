@@ -1,4 +1,4 @@
-# ###                                      Shop: отображение страницы товара
+# ##                                     Shop: отображение страницы товара
 # # 1. Откройте http://practice.automationtesting.in/
 # from selenium import webdriver
 # driver = webdriver.Chrome()

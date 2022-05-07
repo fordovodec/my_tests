@@ -1,4 +1,4 @@
-# #######################   Registration_login: регистрация аккаунта    ###########################
+# #######################   Registration_login: регистрация аккаунта    ##########################
 # # 1. Откройте http://practice.automationtesting.in/
 # from selenium import webdriver
 # import time
